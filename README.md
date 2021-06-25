@@ -1,3 +1,17 @@
+### Snapshots
+
+## Login Page
+
+**Login is authenticated via Google Authentication which is super secure**
+
+![s1](<https://github.com/XenoCod/Groupify-A-group-chat-application/blob/0c884fe3423366a952abdddb527fd441b889c20e/screenshots/Screenshot%20(386).png>)
+
+## Home Page
+
+![s2](<https://github.com/XenoCod/Groupify-A-group-chat-application/blob/0c884fe3423366a952abdddb527fd441b889c20e/screenshots/Screenshot%20(387).png>)
+
+![s3](<https://github.com/XenoCod/Groupify-A-group-chat-application/blob/0c884fe3423366a952abdddb527fd441b889c20e/screenshots/Screenshot%20(388).png>)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
